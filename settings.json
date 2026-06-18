@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.minetro.com:2062",
+    "ip": "play.minetro.com",
     "port":2062 ,
     "version": "",
     "try-creative": false
