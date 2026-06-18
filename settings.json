@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "play.minetro.com:2062",
-    "port"2062: ,
+    "port":2062 ,
     "version": "",
     "try-creative": false
   },
